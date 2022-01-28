@@ -1,0 +1,74 @@
+body{
+	background-color: #ECEFF1;
+}
+
+h2{
+	width: 100%;
+	text-align: center;
+}
+
+.divForm{
+	width: 70%;
+	margin: 5% 15% 1%;
+	text-align: center;
+}
+
+#divTurnoActual{
+	width: 60%;
+	margin: 1% 20%;
+	border: dotted 2px;
+	padding: 1%;
+}
+
+#divTurnoActual h4{
+	text-align: center;
+	font-size: 20px;
+	line-height: 16px;
+	margin: 0;
+}
+
+#divTurnoActual #pNombreAlumno{
+	text-align: center;
+	font-size: 18px;
+	line-height: 16px;
+	margin: 8%;
+	font-style: italic;
+}
+
+#divTurnoActual button{
+	min-width: 100px;
+	font-size: 14px;
+	width: 20%;
+	height: 30px;
+	margin: 0 40%;
+}
+
+table{
+	width: 40%;
+	min-width: 300px;
+	margin: 0 30%;
+	border: solid;
+	border-collapse: collapse;
+}
+
+td,th{
+	text-align: center;
+	border: solid;
+	height: 20px;
+}
+
+.tdBttn{
+	width: 20%;
+	max-width: 150px;
+}
+
+.tdBttn button{
+	width: 100%;
+}
+
+#divTablaAlumnos p{
+	text-align: center;
+	font-style: italic;
+	font-size: 18px;
+	color: red;
+}
